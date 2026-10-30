@@ -77,6 +77,3 @@ I confirmed Kali has the correct IP and full internet access with `ping 8.8.8.8`
 - How to set a static IP on Kali Linux with nmcli
 - How to troubleshoot virtual network connectivity with `ip a` and `ping`
 - Why snapshots matter for a lab environment
-
-## ⚠️ Disclaimer
-This lab runs on my own device and is for educational purposes only.
